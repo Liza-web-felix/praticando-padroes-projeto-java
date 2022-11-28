@@ -3,9 +3,9 @@ Desafio de Projeto Digital Innovation One - Bootcamp Ifood com o instrutor Vanil
 
 Nesse projeto foram explorados alguns padrões usando o Spring Framework,foram eles:
 
-# . Singleton
-# . Strategy/Repository
-# . Facade
+## . Singleton
+## . Strategy/Repository
+## . Facade
 
 # Links Úteis:
 
